@@ -1,0 +1,7 @@
+{
+  "name": "app-deportivard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
